@@ -1,0 +1,5 @@
+<additional>
+    <edgeData id="dumps_0_10000" freq="20" file="dumps_0_10000.xml" excludeEmpty="true" begin="0" end="10000"/>
+	
+	<edgeData id="emissions_0_10000" type="emissions" freq="25" file="emissions_0_10000.xml" excludeEmpty="true" begin="0" end="10000"/>
+</additional>
